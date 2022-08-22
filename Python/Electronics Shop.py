@@ -17,4 +17,3 @@ def getMoneySpent(keyboards, drives, b):
         return(sum[-1])
     else:
         return (-1)
-print(getMoneySpent(keyboards, drives, b))
