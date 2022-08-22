@@ -1,6 +1,3 @@
-b = 60
-keyboards = [40,50,60]
-drives = [5,8,12]
 def getMoneySpent(keyboards, drives, b):
 
     # Create a list 'sum' that contain the sum of all the two lists combination.
